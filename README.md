@@ -59,6 +59,7 @@ Full license text: [https://creativecommons.org/licenses/by-nc/4.0/](https://cre
 - `Paper.pdf` — Full conference paper  
 - `LICENSE` — License file specifying usage rights  
 - `Certificate` - Best paper award certificate
+- `HTML File`
 
 ---
 
