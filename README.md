@@ -44,7 +44,7 @@ Sinha, P. K., & Uniyal, D. P. (2005). Using observational research for behaviour
 
 ## Awards
 - **Best Paper Award** at International Conference on Financial Literacy and Inclusion: FINLIT 2025
-- certificate included in in this repositry
+-
 ---
 
 ## License
@@ -58,7 +58,10 @@ Full license text: [https://creativecommons.org/licenses/by-nc/4.0/](https://cre
 ## Files in this Repository
 - `Paper.pdf` — Full conference paper  
 - `LICENSE` — License file specifying usage rights  
-- `Certificate` - Best paper award certificate
+-
+## Research Paper
+
+You can view or download the full research paper here: [Paper.pdf](Paper.pdf)
 
 
 ---
